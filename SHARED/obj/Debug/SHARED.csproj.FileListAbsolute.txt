@@ -1,0 +1,10 @@
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\bin\Debug\SHARED.dll
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\bin\Debug\SHARED.pdb
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\bin\Debug\ModelStud.dll
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\bin\Debug\ModelStud.pdb
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\bin\Debug\ModelStud.dll.config
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\obj\Debug\SHARED.csproj.AssemblyReference.cache
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\obj\Debug\SHARED.csproj.CoreCompileInputs.cache
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\obj\Debug\SHARED.csproj.CopyComplete
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\obj\Debug\SHARED.dll
+C:\Users\yaros\RiderProjects\Lab 5_AIS\SHARED\obj\Debug\SHARED.pdb
